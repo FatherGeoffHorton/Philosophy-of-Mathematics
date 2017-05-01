@@ -1,0 +1,2 @@
+
+The next intellectual hurdle was negative numbers. Most people these days can handle negative numbers without a second thought, but there was considerable resistance to them for centuries because they didn't appear to correspond to anything in reality. In terms of counting, it's not possible to have fewer objects than none; in terms of geometry, it's not possible to measure a lack of distance. When equations gave negative numbers as solutions, mathematicians either discarded the negative solutions as meaningless or adjusted the equation to make them go away.
