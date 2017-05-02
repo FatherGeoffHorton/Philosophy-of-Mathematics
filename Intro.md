@@ -6,7 +6,7 @@ Up until not that many centuries ago, what we'd now call "science" was just "nat
 
 Even with that in mind, isn't there a difference between the natural world and the world of mathematics? Answering that question requires asking (and answering) philosophical questions about mathematics: *What is mathematics about? In what sense do the things mathematicians exist, compared to the way the things that physicists, chemists, biologists, et al. study exist?* Maybe philosophy does have something to say about mathematics after all!
 
-We can't avoid thinking about philosophical notions. We can only avoid doing it well.[^1] Yet mathematics survived and prospered for several millennia apparently without needing its own formal and distinct field of philosophy.
+We can't avoid thinking about philosophical notions. We can only avoid doing it well.[^1] Yet philosophy and mathematics both survived and prospered for several millennia without ever having their juncture recognized as a formal field of study.
 
 Historians of mathematics can argue about the sources of mathematics, but it seems to have grown from two basic needs: the need to *count* and the need to *measure*. How many baskets of wheat do I have? Where does my field end and my neighbor's field begin?
 
