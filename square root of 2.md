@@ -1,3 +1,10 @@
+## A Very Brief History of Part of Mathematics
+
+Mathematicians may find this chapter trivial. Philosophers may find it intimidating. I can only plead necessity and promise that the positions will be reversed when I look at an overview of philosophy.
+
+The history of mathematics obvious covers much more ground and many more topics than are relevant here.
+
+
 ### Greek Philosophy of Mathematics
 
 The Pythagorean school was the great early Greek school of mathematics. Their underlying philosophy seems to have held that all measurements could be expressed in terms either of whole numbers[^1] or of ratios of whole numbers, that is to say, in terms of fractions. They thought in terms of geometry. While we still speak of the *square* of a number, the term *square* no longer has geometric overtones for us in this context, but it did for them. The famous Pythagorean Theorem for the sides of a right triangle, $a^2 + b^2 = c^2$, was for them a statement about the literal squares one could draw along each side of the triangle.
@@ -17,5 +24,7 @@ $1 + 1 = 2 = c^2$, and $2 = c^2$, so $c = \sqrt{2}$. Is the square root of 2 rat
 Legend has it that the Pythagoreans drowned the man who discovered this proof.
 
 A proof which works by showing that its assumption leads to a contradiction is known as a *reductio ad absurdum*, reduction to an absurdity.
+
+The Pythagoreans had discovered that their original philosophy of mathematics was incomplete, since it had no room for irrational numbers. The concept of "number" had to be expanded to include irrationals.
 
 [^1]: I.e., non-negative integers.
